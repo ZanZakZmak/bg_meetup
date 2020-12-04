@@ -14,6 +14,10 @@ yarn serve
 ```
 yarn build
 ```
+### Compiles and minifies for production
+```
+test za commit
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
