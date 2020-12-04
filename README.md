@@ -21,11 +21,11 @@ Toni Starcic, univ. bacc. inf.
 ## Kratki opis funkcionalnosti
 ```
 - profil i obavezan login na aplikaciju
-			         - mogućnost izrade listi igara (odigrane i one koje želimo) te liste prijatelja na profilu
-			         - pristup već postojećoj bazi igara
-			         - mogućnost izrade sesije za igranje na početnoj stranici (korisnici će unijeti informacije o sesiji poput: ime igre, broj igrača, lokacija na kojoj će se igrati, vrijeme u kojem će se igrati te dostupnost objave globalno ili samo prijateljima)
-			         - sesije će biti prikazane u obliku objava koje korisnici mogu pretražiti kako bi se priključili istoj
-			         - sustav ocjenjivanja korisnika
+- mogućnost izrade listi igara (odigrane i one koje želimo) te liste prijatelja na profilu
+- pristup već postojećoj bazi igara
+- mogućnost izrade sesije za igranje na početnoj stranici (korisnici će unijeti informacije o sesiji poput: ime igre, broj igrača, lokacija na kojoj će se igrati, vrijeme u kojem će se igrati te dostupnost objave globalno ili samo prijateljima)
+- sesije će biti prikazane u obliku objava koje korisnici mogu pretražiti kako bi se priključili istoj
+- sustav ocjenjivanja korisnika
 ```
 ## Javni prototip
 ```
