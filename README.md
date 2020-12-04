@@ -1,5 +1,10 @@
 # bg_meetup
 
+## Sastav tima
+```
+Zan Zak Zmak (voditelj tima)
+Iva Kavalko
+```
 ## Project setup
 ```
 yarn install
