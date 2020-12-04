@@ -15,7 +15,7 @@ Programsko inzenjerstvo  ntankovic.unipu.hr/pi
 ```
 ## Mentori
 ```
-doc.dr.sc. Nikola Tankovic  ntankovic.unipu.hr
+doc. dr. sc. Nikola Tankovic  ntankovic.unipu.hr
 Toni Starcic, univ. bacc. inf.
 ```
 ## Kratki opis funkcionalnosti
