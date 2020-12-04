@@ -34,7 +34,16 @@ https://xd.adobe.com/view/75e1db6c-59f6-4790-b999-12d762db86b0-20b2/?fbclid=IwAR
 ```
 ## Zaduženja
 ```
- 
+ Iva Kavalko: 
+ - izrada i dorada dijagrama
+ - izrada i dorada prototipa
+ - dorada frontend-a (dizajn)
+ - pristup već postojećoj bazi igara
+ - mogućnost izrade sesije za igranje na početnoj stranici (korisnici će unijeti informacije o sesiji poput:
+   ime igre, broj igrača, lokacija na kojoj će se igrati, vrijeme u kojem će se igrati 
+   te dostupnost objave globalno ili samo prijateljima)
+ - sesije će biti prikazane u obliku objava koje korisnici mogu pretražiti kako bi se priključili istoj
+            
 ```
 ## Project setup
 ```
