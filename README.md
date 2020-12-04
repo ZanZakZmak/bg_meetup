@@ -34,6 +34,15 @@ https://xd.adobe.com/view/75e1db6c-59f6-4790-b999-12d762db86b0-20b2/?fbclid=IwAR
 ```
 ## Zaduženja
 ```
+Žan Žak Žmak: 
+-izrada i dorada dijagrama
+- izrada i dorada prototipa
+- dorada backend-a (spajnje na firebase)
+- profil i obavezan login na aplikaciju
+- mogućnost izrade listi igara (odigrane i one koje želimo) te liste prijatelja na profilu i dodavanje igara u liste
+- sustav ocjenjivanja korisnika
+
+
  Iva Kavalko: 
  - izrada i dorada dijagrama
  - izrada i dorada prototipa
